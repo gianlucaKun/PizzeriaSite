@@ -1,0 +1,177 @@
+{
+    "restaurant": "Pizzeria Parco I Pini",
+    "cover_charge": 1.50,
+    "beverages": {
+      "water": [
+        {"name": "Acqua Naturale 1 Lt.", "price": 1.50},
+        {"name": "Acqua Naturale 0,5 Lt.", "price": 1.00},
+        {"name": "Acqua Gassata 1 Lt.", "price": 1.50},
+        {"name": "Acqua Gassata 0,5 Lt.", "price": 1.00}
+      ],
+      "soft_drinks": [
+        {"name": "Coca Cola Lattina", "price": 2.50},
+        {"name": "Fanta Lattina", "price": 2.50},
+        {"name": "Sprite Lattina", "price": 2.50},
+        {"name": "Lemonsoda Lattina", "price": 2.50},
+        {"name": "Chinotto Lattina", "price": 2.50},
+        {"name": "Estathe Lattina", "price": 2.50}
+      ],
+      "draft_soda": [
+        {"name": "Coca Cola Spina Piccola", "price": 2.50},
+        {"name": "Coca Cola Spina Media", "price": 4.00}
+      ],
+      "bottled_soda": [
+        {"name": "Coca Cola 1,5 Lt", "price": 4.00}
+      ],
+      "beer": [
+        {"name": "Birra Spina Piccola", "price": 4.00},
+        {"name": "Birra Spina Media", "price": 6.00},
+        {"name": "Birra Bottiglia 33 Cl", "price": 3.00},
+        {"name": "Birra Bottiglia 66 Cl", "price": 4.00},
+        {"name": "Birra Boccale 0,5", "price": 7.00},
+        {"name": "Birra Bott. Speciale Picc. 33Cl", "price": 4.00},
+        {"name": "Birra Bott. Estera 33Cl", "price": 3.50}
+      ],
+      "wine": [
+        {"name": "Vino Bianco/Rosso al Calice", "price": 4.00},
+        {"name": "Vino Bianco/Rosso Sfuso 0,5 Lt", "price": 6.00},
+        {"name": "Vino Bianco/Rosso Sfuso 1 Lt", "price": 9.00},
+        {"name": "Vino Bianco Prosecco 75 Cl", "price": 12.00}
+      ],
+      "liqueurs": [
+        {"name": "Limoncello", "price": 3.00},
+        {"name": "Liquori", "price": 4.00}
+      ],
+      "coffee": [
+        {"name": "Caffè", "price": 1.20},
+        {"name": "Caffè Corretto", "price": 1.50}
+      ]
+    },
+    "appetizers_and_dishes": [
+      {"name": "Insalata Papavero", "description": "Insalata verde, pros. crudo, rucola, pomodorini, semi di papavero", "price": 7.50},
+      {"name": "Antipasto di Mare", "description": "Seppie, cozze, polpo, vongole, alici, calamari, cocktail gamberetti, carpaccio pesce", "price": 12.00},
+      {"name": "Crostini Misti", "description": "Pane, patè fegatini, pomodoro, patè radicchio", "price": 6.00},
+      {"name": "Insalata Profumo di Fagioli", "description": "Insalata, tonno, fagioli, cipolla, cetrioli", "price": 7.50},
+      {"name": "Antipasto Toscano", "description": "Salumi misti, formaggio, crostini, zuppa", "price": 10.00},
+      {"name": "Insalata Affumicata", "description": "Insalata, speck, pomodorini, lamponi", "price": 7.50},
+      {"name": "Insalatona Mista", "description": "Insalata mista, pomodoro, cetriolo, mais, carote, olive", "price": 7.50},
+      {"name": "Insalata Il Parco", "description": "Insalata mista, tonno, mozzarella, olive", "price": 7.50},
+      {"name": "Zuppa Toscana", "description": "Pane, verdure", "price": 7.00},
+      {"name": "Insalata di Mare", "description": "Seppie, cozze, totani, polpo, vongole, zucchini, carote", "price": 11.00},
+      {"name": "Carpaccio di Pesce", "description": "Pesce spada, salmone, rucola, pomodorini", "price": 12.00},
+      {"name": "Cous Cous di Mare", "description": "Cous cous, seppie, cozze, totani, moscardini", "price": 9.00},
+      {"name": "Cous Cous Verdure", "description": "Cous cous, zucchine, carote, pomodoro", "price": 7.00},
+      {"name": "Cozze alla Marinara", "description": "Cozze, aglio, prezzemolo", "price": 8.00},
+      {"name": "Fesa di Tacchino e Patate Fritte", "description": "Fesa di tacchino arrosto, patate fritte", "price": 8.00},
+      {"name": "Fesa di Tacchino e Pomodorini", "description": "Fesa di tacchino arrosto, pom. cigliegino", "price": 8.00},
+      {"name": "Würstel e Patatine Fritte", "description": "", "price": 7.00},
+      {"name": " ", "description": "", "price": 0}
+    ],
+    "sides": [
+      {"name": "Insalata Verde", "price": 4.00},
+      {"name": "Insalata Mista", "price": 4.00},
+      {"name": "Patatine Fritte", "price": 4.00}
+    ],
+    "classic_pizzas": [
+      {"name": "Margherita", "description": "Pomodoro, mozzarella", "price": 6.50},
+      {"name": "Marinara", "description": "Pomodoro, aglio, prezzemolo", "price": 6.00},
+      {"name": "Napoli", "description": "Pomodoro, mozzarella, capperi, acciughe", "price": 7.00},
+      {"name": "Wustel", "description": "Pomodoro, mozzarella, wustel", "price": 7.00},
+      {"name": "Salamino Piccante", "description": "Pomodoro, mozzarella, salamino piccante", "price": 7.00},
+      {"name": "Cipolla", "description": "Pomodoro, mozzarella, cipolla", "price": 7.00},
+      {"name": "Salsiccia", "description": "Pomodoro, mozzarella, salsiccia", "price": 7.00},
+      {"name": "Funghi", "description": "Pomodoro, mozzarella, funghi", "price": 7.00},
+      {"name": "Prosciutto Cotto", "description": "Pomodoro, mozzarella, prosciutto cotto", "price": 7.00},
+      {"name": "Prosciutto Crudo", "description": "Pomodoro, mozzarella, prosciutto crudo", "price": 7.50},
+      {"name": "Tonno", "description": "Pomodoro, mozzarella, tonno", "price": 7.00},
+      {"name": "Salsiccia e Cipolla", "description": "Pomodoro, mozzarella, salsiccia, cipolla", "price": 7.50},
+      {"name": "Tonno e Cipolla", "description": "Pomodoro, mozzarella, tonno, cipolla", "price": 7.50},
+      {"name": "Prosciutto Cotto e Funghi", "description": "Pomodoro, mozzarella, funghi, prosciutto cotto", "price": 7.50},
+      {"name": "Prosciutto Crudo e Funghi", "description": "Pomodoro, mozzarella, funghi, prosciutto crudo", "price": 8.00},
+      {"name": "4 Stagioni", "description": "Pomodoro, mozzarella, funghi, carciofi, wustel, olive, prosciutto cotto", "price": 7.50},
+      {"name": "Capricciosa", "description": "Pomodoro, mozzarella, funghi, carciofi, wustel, olive, salamino piccante, prosciutto cotto", "price": 8.00},
+      {"name": "Calzone", "description": "Mozzarella, prosciutto cotto, pomodoro a crudo", "price": 7.00},
+      {"name": "Calzone Farcito", "description": "Mozzarella, funghi, carciofi, wustel, olive, salamino piccante, prosciutto cotto, pomodoro a crudo", "price": 8.00},
+      {"name": "Calzone Prosciutto e Funghi", "description": "Mozzarella, funghi, prosciutto cotto, pomodoro a crudo", "price": 7.50}
+    ],
+    "white_pizzas": [
+      {"name": "Biancaneve", "description": "Mozzarella", "price": 6.50},
+      {"name": "Montebianco", "description": "Mozzarella, formaggi freschi, funghi, acciughe", "price": 9.00},
+      {"name": "Bianca Fiori di Zucca", "description": "Mozzarella, fiori di zucca, acciughe", "price": 8.00},
+      {"name": "Cacio e Pepe", "description": "Mozzarella, pecorino romano, pepe in grani", "price": 8.00},
+      {"name": "Tartufata Semplice", "description": "Mozzarella, tartufo, parmigiano a scaglie", "price": 7.50},
+      {"name": "Tartufata", "description": "Mozzarella bufala, tartufo, funghi porcini, lardo", "price": 9.00},
+      {"name": "Formaggi Bianca", "description": "Mozzarella, formaggi freschi", "price": 8.00},
+      {"name": "Italia", "description": "Mozzarella, pomodoro a fette, rucola, parmigiano", "price": 8.00},
+      {"name": "Salmone Gamberetti e Panna", "description": "Mozzarella, salmone, gamberetti, panna", "price": 9.00},
+      {"name": "Bianco Sapore", "description": "Mozzarella, salmone, gamberetti, zucchine julienne", "price": 9.00},
+      {"name": "Golosa", "description": "Mozzarella, funghi porcini, olio tartufo", "price": 10.00},
+      {"name": "Beata", "description": "Mozzarella di bufala, pesto al basilico, pomodoro cigliegino, pan grattato, pomodori secchi, acciughe, olive", "price": 9.00},
+      {"name": "Perlage al Basilico", "description": "Mozzarella bufala, acciughe, perlage di basilico, foglie basilico", "price": 10.00},
+      {"name": "Primavera", "description": "Mozzarella bufala, prosciutto crudo, parmigiano, pomodorini", "price": 9.00},
+      {"name": "Gorgonzola Noci e Pere", "description": "Mozzarella, gorgonzola, noci e pere", "price": 9.00},
+      {"name": "Mortadella e Stracciatella", "description": "Mortadella, stracciatella a latte, granella di noci", "price": 9.50},
+      {"name": "Lemon Pizza", "description": "Mozzarella bufala, gamberi, salmone, limone infornato, scaglie di parmigiano, rucola", "price": 10.00}
+    ],
+    "special_pizzas": [
+      {"name": "Mascarpone e Crudo", "description": "Pomodoro, mozzarella, mascarpone, prosciutto crudo", "price": 8.00},
+      {"name": "Mascarpone e Speck", "description": "Pomodoro, mozzarella, mascarpone, speck", "price": 8.00},
+      {"name": "Delicata", "description": "Pomodoro, mozzarella, philadelphia, prosciutto crudo, rucola, pinoli", "price": 8.50},
+      {"name": "Valtellina", "description": "Pomodoro, mozzarella, bresaola, rucola, parmigiano a scaglie", "price": 8.00},
+      {"name": "Frutti di Mare", "description": "Pomodoro, mozzarella, frutti di mare, aglio, prezzemolo", "price": 9.50},
+      {"name": "Saporita", "description": "Pomodoro, mozzarella, mascarpone, salsiccia, melanzane", "price": 8.50},
+      {"name": "Boscaiola", "description": "Pomodoro, mozzarella, funghi, salsiccia, aglio, prezzemolo, olive", "price": 8.00},
+      {"name": "Bomba", "description": "Pomodoro, mozzarella, salamino piccante, salsiccia, olive, peperoncino", "price": 8.00},
+      {"name": "Leggerezza", "description": "Pomodoro, mozzarella, pesto al basilico, parmigiano, pomodorini", "price": 8.50},
+      {"name": "Rustica", "description": "Pomodoro, mozzarella, stracchino, salsiccia, trevisana", "price": 8.50},
+      {"name": "Sfiziosa", "description": "Pomodoro, mozzarella, gorgonzola, cipolla, salamino piccante", "price": 8.50},
+      {"name": "Pecorino", "description": "Pomodoro, mozzarella, pecorino", "price": 7.50},
+      {"name": "Vesuvio", "description": "Pomodoro, mozzarella, ricotta, salamino piccante", "price": 8.00},
+      {"name": "America", "description": "Pomodoro, mozzarella, tutto il possibile", "price": 9.00},
+      {"name": "Miami", "description": "Pomodoro, mozzarella, wustel, patate fritte", "price": 8.00},
+      {"name": "Semplicità", "description": "Pomodoro, mozzarella bufala, bresaola, pesto di basilico, basilico", "price": 8.50},
+      {"name": "Conte", "description": "Pomodoro, acciughe, capperi, aglio, prezzemolo, salamino piccante", "price": 8.00},
+      {"name": "Funghi Porcini", "description": "Pomodoro, mozzarella, funghi porcini", "price": 8.00},
+      {"name": "5 Formaggi Freschi", "description": "Pomodoro, mozzarella, formaggi freschi", "price": 8.00},
+      {"name": "Tropicale", "description": "Pomodoro, mozzarella, ananas, prosciutto cotto", "price": 8.00},
+      {"name": "Mortadella e Pistacchio", "description": "Pomodoro, mozzarella, mortadella, crema di pistacchio, granella di pistacchi", "price": 9.50},
+      {"name": "Salumeria", "description": "Pomodoro, mozzarella, misto di salumi", "price": 9.00},
+      {"name": "Vegetariana", "description": "Pomodoro, mozzarella, carote, zucchine, melanzane, peperoni", "price": 8.00},
+      {"name": "Romana", "description": "Pomodoro, mozzarella, carciofi, olive", "price": 7.50},
+      {"name": "Rosso Relativo", "description": "Pomodoro, bocconcini bufala, pomodorini cigliegini, grana, peperoncino, basilico", "price": 10.00},
+      {"name": "Bufalina", "description": "Pomodoro, mozzarella di bufala, pomodorini cigliegini, basilico", "price": 9.00},
+      {"name": "Buio Pesto", "description": "Pomodoro, ricotta, prosciutto crudo, pesto al basilico", "price": 9.00},
+      {"name": "Divina", "description": "Pomodoro, mozzarella, pesce spada, rucola", "price": 10.00}
+    ],
+    "flatbreads": [
+      {"name": "Schiacciatino Ripieno Pomo", "description": "Mozzarella, pomodoro fresco", "price": 7.00},
+      {"name": "Schiaccino Mortadellino", "description": "Mortadella, pomodorini cigliegini, pesto basilico", "price": 7.50},
+      {"name": "Schiacciatino Ripieno Cotto", "description": "Mozzarella, prosciutto cotto", "price": 7.50},
+      {"name": "Schiaccino Carpaccino", "description": "Bresaola, rucola, grana a scaglie", "price": 7.50},
+      {"name": "Schiacciatino Ripieno Crudo", "description": "Mozzarella, prosciutto crudo", "price": 8.00},
+      {"name": "Schiaccino Affumicato", "description": "Speck, emmental", "price": 7.50},
+      {"name": "Schiacciatino Saporito", "description": "Mozzarella, pomodoro fresco, prosciutto crudo, rucola", "price": 8.50},
+      {"name": "Schiaccino Marino", "description": "Carpaccio di spada, salmone, rucola e pomodorini", "price": 9.00},
+      {"name": "Schiacciatino Fresco", "description": "Maionese, pomodoro fresco, tonno, insalata", "price": 8.50},
+      {"name": "Schiacciatino Olio e Sale", "description": "Olio e sale", "price": 3.00},
+      {"name": "Schiacciatino Farcito", "description": "Mozzarella, funghi, prosciutto cotto, sottoli misti", "price": 8.00}
+    ],
+    "desserts": [
+      {"name": "Schiacciatino Dolce Nutella", "price": 5.00},
+      {"name": "Schiacciatino Dolce Arancia", "price": 5.00},
+      {"name": "Schiacciatino Nutella Mascarpone", "price": 5.50},
+      {"name": "Tiramisu", "price": 4.00},
+      {"name": "Panna Cotta", "price": 4.00},
+      {"name": "Sorbetto Limone", "price": 4.00},
+      {"name": "Profitterol", "price": 4.00},
+      {"name": "Cestino Yogurt Frutta Fresca", "price": 4.00},
+      {"name": "Salame Freddo al Cioccolato", "price": 4.00},
+      {"name": "Mattonella Pinoli", "price": 4.00},
+      {"name": "Soufflé Cioccolato", "price": 4.00},
+      {"name": "Carpaccio di Ananas", "price": 4.00},
+      {"name": "Millefoglie Scomposto", "price": 4.00},
+      {"name": "Cocomero", "price": 3.00},
+      {"name": "Macedonia", "price": 4.00},
+      {"name": "Sgroppino", "price": 4.00}
+    ]
+  }

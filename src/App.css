@@ -1,0 +1,34 @@
+:root {
+  background-color: rgba(188, 91, 91, 0.895);
+  /* background-image: url("./assets/pizza\ 10.jpg");
+  background-size: cover;
+  background-position: center; */
+  color: #e2e2e2;
+}
+.App {
+  display: grid;
+  grid-template-areas: 
+    "main main" ;/* sidebar main */
+    /* "footer footer"; */
+  grid-template-columns: 1fr 3fr; /* 1 parte per la sidebar, 3 parti per il contenuto principale */
+  grid-template-rows: 1fr auto; /* altezza automatica per header, navbar e footer, e 1fr per il contenuto */
+  height: 100vh; /* l'altezza della griglia occupa tutto il viewport */
+}
+
+
+
+.sidebar {
+  grid-area: sidebar;
+  background-color: rgb(240, 128, 128, 50%);
+}
+
+.main {
+  grid-area: main;
+  background-color: rgb(250, 250, 210, 50%);
+  padding-top: 30px;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: rgb(211, 211, 211, 50%);
+}

@@ -1,0 +1,27 @@
+.navbarContainer {
+    padding: 15px;
+    margin-top: 0;
+    & img {
+        position: absolute;
+        width: 10%;
+        left: 35px;
+        top: 25px;
+    }
+    & ul {
+        display: flex;
+        justify-content: right;
+        gap: 55px;
+        margin-right: 50px;
+        & li {
+            list-style-type: none;
+            background-color: rgb(128, 128, 240);
+            & a {
+                text-decoration: none;
+                color: blue;
+                &:hover {
+                    color: red;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "description": "Pomodoro, mozzarella, basilico",
+        "price": 6.50,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2023/10/Margherita-Sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 2,
+        "name": "Diavola",
+        "description": "Pomodoro, mozzarella, salame piccante",
+        "price": 8.00,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2023/10/Molise-Sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 3,
+        "name": "Quattro Stagioni",
+        "description": "Pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive",
+        "price": 9.00,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2022/02/valle-daosta-sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 4,
+        "name": "Capricciosa",
+        "description": "Pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive, uovo",
+        "price": 9.50,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2022/02/Marche-Rossini-sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 5,
+        "name": "Marinara",
+        "description": "Pomodoro, aglio, origano",
+        "price": 5.00,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2023/10/Marinara-Secondo-Pizzium-Sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 6,
+        "name": "Prosciutto e Funghi",
+        "description": "Pomodoro, mozzarella, prosciutto cotto, funghi",
+        "price": 8.50,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2024/04/trentino_2-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 7,
+        "name": "Vegetariana",
+        "description": "Pomodoro, mozzarella, verdure miste",
+        "price": 8.50,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2023/10/Campania-Sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 8,
+        "name": "Quattro Formaggi",
+        "description": "Mozzarella, gorgonzola, fontina, parmigiano",
+        "price": 9.00,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2023/10/Calabria-Sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 9,
+        "name": "Napoli",
+        "description": "Pomodoro, mozzarella, acciughe, capperi",
+        "price": 7.50,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2023/10/NApoli-Sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      },
+      {
+        "id": 10,
+        "name": "Calzone",
+        "description": "Pomodoro, mozzarella, prosciutto cotto, funghi, ricotta",
+        "price": 8.50,
+        "image": "https://e39eyh4aj96.exactdn.com/wp-content/uploads/2022/02/baciata-parmigiana_sito-300x300.jpg?strip=all&lossy=1&ssl=1"
+      }
+    ]
+  }
+  

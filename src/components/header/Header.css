@@ -1,0 +1,32 @@
+.headerContainer {
+    border: 3px solid green;
+}
+
+.titleHeader {
+    margin-top: 85px;
+    margin-left: 55px;
+    color: rgba(255, 0, 0, 0.9);
+    text-align: left;
+    font-size: 7rem;
+    width: 75%;
+    padding-bottom: 10px;
+    border-bottom: 18px solid rgba(255, 0, 0, 0.836);;
+}
+
+.containerButtonHeader {
+    .btnHeader {
+        background-color: rgba(255, 0, 0, 0.728);
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 2rem;
+        text-transform: uppercase;
+        margin-left: 9%;
+        &:hover {
+            background-color: rgb(255, 0, 0);
+            border: 2px solid rgba(255, 0, 0);
+        }
+    }
+    
+}

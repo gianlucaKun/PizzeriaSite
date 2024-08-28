@@ -1,0 +1,10 @@
+.cardContainer {
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  h3, p, h5 {
+    margin: 0;
+  }
+
